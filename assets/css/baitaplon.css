@@ -93,7 +93,7 @@ body{
     0% {margin-left: 0;
     color: white;}
     100% {margin-left: 10px;
-    color: rgb(231, 255, 16);}
+    color: red;}
 }
 #mainmenu>ul>li:hover >a{
     animation: changecolor 1s;
